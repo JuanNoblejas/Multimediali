@@ -1,0 +1,28 @@
+# Ignorar el entorno virtual
+/venv
+
+# Ignorar los Zone Identifier
+*:*Zone.Identifier
+
+# Ignorar los modelos .h5 y las imágenes .png
+*.h5
+*.png
+
+# Ignorar los csv de test
+*.csv
+
+# Ignorar los checkpoints de los cuadernos Jupyter
+*.ipynb_checkpoints
+
+# Archivos privados / conversaciones
+mi mensaje sobre este proyecto.txt
+9. Come scrivere un articolo s.pdf
+
+# Artefactos de compilación LaTeX
+article.aux
+article.log
+article.out
+article.synctex.gz
+
+# Directorio interno de Claude Code
+.claude/
